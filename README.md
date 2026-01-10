@@ -1,8 +1,6 @@
-# Inkay - Aroma patches for Pretendo
+# Inkay-Peamo - Aroma patches for Peamo
 
-[![Pretendo network logo](https://github.com/PretendoNetwork/website/raw/master/public/assets/images/opengraph/opengraph-image.png)](https://pretendo.network)
-
-Inkay is an Aroma/WUPS plugin that patches various Nintendo Network URLs on a Wii U to use Pretendo Network instead. It also (for the time being) bypasses SSL verification in most cases. It redirects Nintendo Network in:
+Inkay is an Aroma/WUPS plugin that patches various Nintendo Network URLs on a Wii U to use Peamo Network instead. It also (for the time being) bypasses SSL verification in most cases. It redirects Nintendo Network in:
 
 - IOSU-side connections (Friends, SpotPass, accounts etc.)
 - Account Settings
@@ -42,4 +40,4 @@ Inkay has the following dependencies aside from devkitPPC and wut:
 Each of these should be `make install`-able. After that, you can compile Inkay with `make`.
 
 ## TODO
-See [Issues](https://github.com/PretendoNetwork/Inkay/issues).
+See [Issues](https://github.com/PeamoNetwork/Inkay/issues).
