@@ -15,9 +15,9 @@
 
 #endif
 #endif
-
+// subdomain or not?
 #ifndef NETWORK_BASEURL
-#define NETWORK_BASEURL "ixchats.com" //subdomain or not?
+#define NETWORK_BASEURL "ixchats.com"
 #endif
 
 #endif //INKAY_INKAY_CONFIG_H
