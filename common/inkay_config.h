@@ -1,5 +1,7 @@
 //
 // Created by ash on 17/12/24.
+// Edited by ErrorOliver for
+// Peamo Network
 //
 
 #ifndef INKAY_INKAY_CONFIG_H
