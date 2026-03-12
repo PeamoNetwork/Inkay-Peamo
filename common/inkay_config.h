@@ -15,7 +15,7 @@
 #endif
 
 #ifndef NETWORK_BASEURL
-#define NETWORK_BASEURL "pretendo.cc"
+#define NETWORK_BASEURL "ixchats.com" //subdomain or not?
 #endif
 
 #endif //INKAY_INKAY_CONFIG_H
